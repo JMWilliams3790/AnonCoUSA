@@ -1,0 +1,567 @@
+BLS Job Title,LONG_OCC_CODE,Percentage with AA Degree or Less,Percentage with BA Degree or More,Total Employment (National),Mean Annual Wage (National),Annual Wage 10th Pct (National),Annual Wage 25th Pct (National),Median Annual Wage (National),Annual Wage 75th Pct (National),Annual Wage 90th Pct (National),Typical education needed for entry,Work experience in a related occupation,Non-Entry Level,BA Entry Level,Middle Skilled,Low Wage
+Computer Operator,43-9011.00,64.9,35.1,,,,,,,,High school diploma or equivalent,None,False,False,True,False
+Business Intelligence Analyst,15-1199.93,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+IT Project Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Network Engineer / Architect,15-1199.02,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Network Engineer / Architect,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Network Engineer / Architect,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Project Manager (General),15-1199.09,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+SAP Analyst / Admin,15-1199.93,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Software Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Java Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Data Warehouse Developer,15-1199.07,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+.NET Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+.NET Developer / Engineer,15-1199.01,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Application Developer / Engineer,15-1131.91,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Application Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Solutions Engineer,15-1131.91,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Solutions Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Communications Manager,11-2031.91,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+Cyber Security Consultant,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Cyber Security Consultant,15-1122.00,33.1,67.1,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+IT Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+SAP Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Consultant / Analyst,15-1199.00,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Consultant / Analyst,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Consultant / Analyst,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Senior Program Manager,11-9199.00,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+IT Director,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+IT Project Analyst,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Analyst,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Analyst,15-1152.00,51.5,48.4,,,,,,,,Associate's degree,None,False,False,True,False
+Systems Analyst,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Engineer,15-1199.00,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Engineer,15-1199.02,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Engineer,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Engineer,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Manager / Director,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Program Manager,11-9199.00,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Investment / Portfolio Analyst,13-2051.00,12.7,87.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Application Analyst,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Fundraising Manager,11-2031.92,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+Computer Programmer,15-1131.91,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Contracts Administrator,13-1023.91,,,,,,,,,,,,False,False,True,False
+Administrative Manager,11-3011.92,56.9,43.0,,,,,,,,Bachelor's degree,Less than 5 years,False,False,True,False
+Data Analyst (General),15-1199.91,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Food Service Team Member,35-3021.00,92.8,7.3,,,,,,,,No formal educational credential,None,False,False,False,True
+Fraud Examiner / Analyst,13-2099.04,42.1,58.0,,,,,,,,Bachelor's degree,None,False,True,False,False
+Health Technician / Technologist (Other),29-2099.00,67.6,32.3,,,,,,,,Postsecondary nondegree award,None,False,False,True,False
+Cyber Security Engineer,15-1122.00,33.1,67.1,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Data Engineer,15-1141.91,27.7,72.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Data Scientist,15-1111.91,6.3,93.8,,,,,,,,Master's degree,None,False,True,False,False
+Devops Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+IT Program Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Mobile Developer / Engineer,15-1131.91,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Mobile Developer / Engineer,15-1131.92,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Risk Consultant,13-2099.02,42.1,58.0,,,,,,,,Bachelor's degree,None,False,True,False,False
+Senior Data Analyst,15-1199.91,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Senior Web Developer,15-1134.92,30.8,69.3,,,,,,,,Associate's degree,None,False,True,False,False
+Software QA Analyst,15-1199.01,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Software QA Lead,15-1199.01,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Application Support Engineer / Analyst,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Application Support Engineer / Analyst,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Communications Campaign Manager,11-2031.91,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+Compliance Manager,11-9199.01,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Corporate Development Analyst / Manager,11-9199.91,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Cyber Security Architect,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Cyber Security Architect,15-1122.00,33.1,67.1,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Data Analyst (Healthcare),15-1199.91,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Document Control / Management Specialist,15-1199.12,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Public Relations Manager,11-2031.91,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+Salesforce / CRM Developer,15-1199.94,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Salesforce Administrator,15-1141.00,27.7,72.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+User Experience (UX) Designer,15-1134.93,30.8,69.3,,,,,,,,Associate's degree,None,False,True,False,False
+User Experience (UX) Researcher,15-1134.93,30.8,69.3,,,,,,,,Associate's degree,None,False,True,False,False
+Business Continuity Planner / Analyst,13-1199.04,35.5,64.6,,,,,,,,Bachelor's degree,None,False,True,False,False
+Cyber Security Manager / Administrator,15-1122.00,33.1,67.1,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Data Center Technician / Engineer,15-1141.00,27.7,72.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Data Quality Analyst,15-1199.91,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Financial Analyst (General),13-2051.00,12.7,87.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+IT Operations / Networking Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Investment Underwriter,13-2099.03,42.1,58.0,,,,,,,,Bachelor's degree,None,False,True,False,False
+Middleware Administrator,15-1199.02,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Project Coordinator,15-1199.09,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Senior Financial Analyst,13-2051.00,12.7,87.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Senior Project Manager,15-1199.09,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Software Architect,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Software QA Engineer / Tester,15-1199.01,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Architect,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Systems Architect,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Unix Administrator / Engineer,15-1142.00,43.9,56.1,,,,,,,,Bachelor's degree,None,False,True,False,False
+Vice President of Communications,11-2031.91,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+Cloud Architect,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Cloud Architect,15-1133.00,14.7,85.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Program Manager (General),11-9199.00,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Accounting Analyst,13-2051.00,12.7,87.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Computer Support Specialist,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Configuration Analyst / Specialist,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+SAS Programmer,15-1131.91,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Marketing Communications Manager,11-2031.91,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+PHP Developer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Support Engineer / Analyst,15-1199.00,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Support Engineer / Analyst,15-1199.02,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Support Engineer / Analyst,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Vulnerability Analyst / Penetration Tester,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Automation Engineer,15-1199.02,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Business / Systems Analyst,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Business Intelligence Developer / Architect,15-1199.94,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Database Administrator,15-1141.00,27.7,72.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Help Desk Technician / Analyst,15-1121.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Help Desk Technician / Analyst,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Safety Specialist,29-9012.00,34.8,65.1,,,,,,,,High school diploma or equivalent,None,False,True,False,False
+Senior Java Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Buyer (General),13-1021.00,,,,,,,,,,,,False,False,True,False
+Reporter,27-3021.00,13.9,86.1,,,,,,,,Bachelor's degree,None,False,True,False,False
+Security Manager,11-9199.07,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Stocker,43-5081.01,89.0,11.1,,,,,,,,High school diploma or equivalent,None,False,False,False,True
+Golf Course Worker,27-2021.91,38.4,61.6,11330.0,93140.0,19280.0,25770.0,51370.0,109920.0,,No formal educational credential,None,False,True,False,False
+E-Commerce Specialist,13-1199.06,35.5,64.6,,,,,,,,Bachelor's degree,None,False,True,False,False
+Education Program Manager,11-9199.00,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Purchasing Manager,11-9199.96,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+User Interface / User Experience (UI / UX) Designer,15-1134.93,30.8,69.3,,,,,,,,Associate's degree,None,False,True,False,False
+Pet Care Worker / Manager,39-1021.92,72.2,27.8,,,,,,,,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Logging Worker / Supervisor,45-1011.05,86.0,14.0,22560.0,52520.0,30130.0,36940.0,48280.0,64000.0,80950.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Loss Prevention / Asset Protection Specialist,33-1099.00,64.5,35.6,,,,,,,,High school diploma or equivalent,Less than 5 years,False,False,False,True
+Van / Taxi / Shuttle Driver,53-3041.00,79.6,20.4,,,,,,,,No formal educational credential,None,False,False,False,True
+Systems Support Specialist,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Nursing Assistant,31-1014.00,90.5,9.5,,,,,,,,Postsecondary nondegree award,None,False,False,True,False
+Power Distributor / Plant Operator,51-8012.00,78.6,21.4,10770.0,88910.0,56360.0,72540.0,90700.0,104140.0,122380.0,High school diploma or equivalent,None,False,False,True,False
+Warehouse / Distribution Supervisor,53-1021.00,,,,,,,,,,,,False,False,True,False
+Barista,35-3022.01,88.8,11.1,,,,,,,,No formal educational credential,None,False,False,False,True
+Makeup Artist,39-5091.00,88.0,12.0,3400.0,81600.0,23920.0,38250.0,75730.0,118560.0,145420.0,Postsecondary nondegree award,None,False,False,False,True
+Esthetician,39-5094.00,88.0,12.0,56660.0,38970.0,20500.0,25220.0,34090.0,46770.0,62540.0,Postsecondary nondegree award,None,False,False,False,True
+General Engineering Technician / Technologist,17-3029.02,79.6,20.3,,,,,,,,Associate's degree,None,False,False,True,False
+Manufacturing / Production Technician,17-3029.09,79.6,20.3,,,,,,,,Associate's degree,None,False,False,True,False
+Environmental Technician,19-4091.91,51.3,48.6,,,,,,,,Associate's degree,None,False,False,True,False
+IT Specialist / Engineer,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Inventory Associate,43-5081.00,89.0,11.1,,,,,,,,High school diploma or equivalent,None,False,False,False,True
+Sustainability Specialist,13-1199.05,35.5,64.6,,,,,,,,Bachelor's degree,None,False,True,False,False
+Assistant Project Manager,15-1199.09,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+EMT / Paramedic,29-2041.00,80.3,19.6,,,,,,,,Postsecondary nondegree award,None,False,False,True,False
+Systems Administrator,15-1142.00,43.9,56.1,,,,,,,,Bachelor's degree,None,False,True,False,False
+Project Controls Manager,15-1199.09,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Environmental Health and Safety (EHS) Coordinator,29-9012.00,34.8,65.1,,,,,,,,High school diploma or equivalent,None,False,True,False,False
+Facilities Manager,11-3011.91,56.9,43.0,,,,,,,,Bachelor's degree,Less than 5 years,False,False,True,False
+Web Developer,15-1134.92,30.8,69.3,,,,,,,,Associate's degree,None,False,True,False,False
+Flooring Installer,47-2042.00,96.0,4.0,16290.0,48610.0,26740.0,33170.0,44240.0,60600.0,78370.0,No formal educational credential,None,False,False,False,True
+Property Appraiser / Assessor,13-2021.00,44.6,55.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Healthcare Program Manager,11-9199.00,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+IT Administrator,15-1151.00,51.5,48.4,,,,,,,,"Some college, no degree",None,False,False,True,False
+Policy Analyst,19-3094.00,13.9,86.1,6010.0,120260.0,60960.0,87990.0,122220.0,148960.0,164210.0,Master's degree,None,False,True,False,False
+Senior .NET Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Treasury Analyst,13-2051.00,12.7,87.2,,,,,,,,Bachelor's degree,None,False,True,False,False
+Occupational Health and Safety (OHS) Specialist,29-9012.00,34.8,65.1,,,,,,,,High school diploma or equivalent,None,False,True,False,False
+Lawn Care / Pesticide Technician,37-3012.00,92.1,7.8,25780.0,39230.0,25020.0,29570.0,35840.0,43310.0,57350.0,High school diploma or equivalent,None,False,False,True,False
+Coating / Industrial Painter,51-9121.00,96.8,3.2,,,,,,,,High school diploma or equivalent,None,False,False,False,True
+Occupational Health and Safety (OHS) Manager,29-9011.00,34.8,65.1,,,,,,,,Bachelor's degree,None,False,True,False,False
+Home Appliance Repairer,49-9031.00,92.5,7.4,31100.0,42400.0,24500.0,31450.0,40260.0,51450.0,62770.0,High school diploma or equivalent,None,False,False,True,False
+Medical Technologist,29-2011.00,,,,,,,,,,,,False,False,True,False
+Cyber Security Analyst,13-1199.02,35.5,64.6,,,,,,,,Bachelor's degree,None,False,True,False,False
+Cyber Security Analyst,15-1122.00,33.1,67.1,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Facilities Specialist / Coordinator,11-3011.91,56.9,43.0,,,,,,,,Bachelor's degree,Less than 5 years,False,False,True,False
+Network Administrator,15-1142.00,43.9,56.1,,,,,,,,Bachelor's degree,None,False,True,False,False
+Procurement / Sourcing Manager,11-9199.96,42.2,57.7,,,,,,,,Bachelor's degree,Less than 5 years,False,True,False,False
+Procurement / Sourcing Specialist,13-1021.00,,,,,,,,,,,,False,False,True,False
+Senior Data Scientist,15-1111.91,6.3,93.8,,,,,,,,Master's degree,None,False,True,False,False
+Senior Software Developer / Engineer,15-1131.00,25.7,74.3,,,,,,,,Bachelor's degree,None,False,True,False,False
+Communications Director,11-2031.91,11.5,88.5,,,,,,,,Bachelor's degree,5 years or more,True,False,False,False
+Teacher Assistant,25-9041.00,73.1,26.9,,,,,,,,"Some college, no degree",None,False,False,True,False
+Industrial-Organizational Psychologist,19-3032.00,0.0,100.0,630.0,111150.0,51080.0,61380.0,92880.0,148170.0,197700.0,Master's degree,None,False,True,False,False
+Contracts Manager,13-1023.91,,,,,,,,,,,,False,False,True,False
+GIS Analyst,15-1199.04,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Application Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Family / Behavioral Therapist,21-1013.00,18.8,81.2,59050.0,54590.0,32070.0,37740.0,49610.0,64630.0,87700.0,Master's degree,None,False,True,False,False
+Risk Analyst,13-2099.02,42.1,58.0,,,,,,,,Bachelor's degree,None,False,True,False,False
+Search Engine Optimization Specialist,15-1199.10,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Technical Project Manager,15-1199.95,43.8,56.4,,,,,,,,Bachelor's degree,None,False,True,False,False
+Human Resources Analyst,13-1071.92,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Human Resources Manager,11-3121.92,40.8,59.2,154800.0,129570.0,68300.0,88150.0,116720.0,156560.0,205720.0,Bachelor's degree,5 years or more,True,False,False,False
+Payroll Analyst,43-3051.00,76.5,23.5,142700.0,47390.0,30320.0,37000.0,46180.0,57030.0,66210.0,High school diploma or equivalent,None,False,False,True,False
+Business Development Specialist,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Director of Business Development,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Financial Manager (General),11-3031.00,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Account Executive (General),43-6011.92,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Account Manager,13-2011.94,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Business to Business (B2B) Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Financial Consultant,13-2052.00,19.5,80.5,210190.0,119290.0,42950.0,57780.0,87850.0,154480.0,,Bachelor's degree,None,False,True,False,False
+General Manager,11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Inside Sales Account Executive,43-6011.92,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Retail Sales Associate (General),41-2031.00,73.7,26.3,4317950.0,29360.0,18900.0,21780.0,25250.0,31480.0,42780.0,No formal educational credential,None,False,False,False,True
+Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Territory / Regional Sales Manager,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Auditor (General),13-2011.02,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Business Development Manager,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Customer Service Representative (General),43-4051.00,73.39999999999998,26.7,2919230.0,37320.0,22980.0,27630.0,34710.0,43980.0,56380.0,High school diploma or equivalent,None,False,False,False,True
+Healthcare Sales Representative,41-4011.91,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Petroleum Engineer,17-2171.00,17.4,82.7,32620.0,156780.0,79270.0,107020.0,137720.0,193430.0,,Bachelor's degree,None,False,True,False,False
+Client Service Representative / Associate,43-4051.00,73.39999999999998,26.7,2919230.0,37320.0,22980.0,27630.0,34710.0,43980.0,56380.0,High school diploma or equivalent,None,False,False,True,False
+Sales Support Assistant,41-9099.91,53.0,47.0,118910.0,40620.0,21650.0,24740.0,31820.0,47530.0,69940.0,High school diploma or equivalent,None,False,False,True,False
+Sales Support Specialist,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Brand Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Marketing Automation Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Vice President (General),11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Business Analyst (General),13-1111.00,22.1,77.89999999999998,709750.0,95560.0,49700.0,64060.0,85260.0,113770.0,154310.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Call Center Representative,43-4051.00,73.39999999999998,26.7,2919230.0,37320.0,22980.0,27630.0,34710.0,43980.0,56380.0,High school diploma or equivalent,None,False,False,True,False
+Consulting Sales Manager,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+IT Director,11-3021.00,25.8,74.1,433960.0,156390.0,87480.0,113110.0,146360.0,185610.0,,Bachelor's degree,5 years or more,True,False,False,False
+Maintenance Service Manager,49-1011.00,85.39999999999998,14.6,485700.0,70550.0,40880.0,52300.0,67460.0,85960.0,105810.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Health Educator,21-1091.00,44.8,55.3,58590.0,60500.0,32890.0,40970.0,55220.0,75050.0,98680.0,Bachelor's degree,None,False,True,False,False
+Payroll Specialist (General),43-3051.00,76.5,23.5,142700.0,47390.0,30320.0,37000.0,46180.0,57030.0,66210.0,High school diploma or equivalent,None,False,False,True,False
+Recruiter (General),13-1071.91,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Compensation / Benefits Specialist,13-1141.00,45.6,54.5,89300.0,69840.0,40140.0,50000.0,64560.0,82920.0,105600.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Program Analyst,13-1111.00,22.1,77.89999999999998,709750.0,95560.0,49700.0,64060.0,85260.0,113770.0,154310.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Human Resources Specialist,13-1071.92,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Office Manager (General),43-1011.91,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Restaurant / Food Service Supervisor,35-1012.00,85.4,14.7,1011100.0,36960.0,22420.0,26610.0,33400.0,44910.0,57990.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Business / Management Consultant,13-1111.00,22.1,77.89999999999998,709750.0,95560.0,49700.0,64060.0,85260.0,113770.0,154310.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Civil Engineer,17-2051.00,13.000000000000002,87.0,310850.0,94360.0,55380.0,68130.0,87060.0,113580.0,144560.0,Bachelor's degree,None,False,True,False,False
+Director of Product Management,11-2021.92,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Compensation / Benefits Manager,11-3111.00,32.3,67.6,16900.0,134210.0,69870.0,91430.0,122270.0,163980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Executive Assistant,43-6011.91,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Logistician,13-1081.00,55.8,44.4,182050.0,78680.0,44020.0,57080.0,74750.0,96240.0,120400.0,Bachelor's degree,None,False,False,True,False
+Office / Administrative Assistant,43-6014.00,75.8,24.000000000000004,2038340.0,39180.0,24250.0,30100.0,37690.0,47510.0,57570.0,High school diploma or equivalent,None,False,False,False,True
+Operations Supervisor,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Product Manager,11-2021.92,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Recruiting Manager,11-3121.91,40.8,59.2,154800.0,129570.0,68300.0,88150.0,116720.0,156560.0,205720.0,Bachelor's degree,5 years or more,True,False,False,False
+Software Product Manager,11-2021.92,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Writer,27-3043.91,17.5,82.5,45860.0,73860.0,33660.0,46640.0,63200.0,87110.0,122450.0,Bachelor's degree,None,False,True,False,False
+Architect,17-1011.00,8.0,91.8,105850.0,89560.0,48700.0,62600.0,80750.0,105600.0,137620.0,Bachelor's degree,None,False,True,False,False
+Brokerage Clerk,43-4011.91,52.7,47.3,47990.0,55190.0,35600.0,43490.0,52750.0,63770.0,78160.0,High school diploma or equivalent,None,False,False,True,False
+Chief Financial Officer,11-3031.01,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Chief of Staff,11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Cloud Product Manager,11-2021.92,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Content Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Copywriter,27-3043.04,17.5,82.5,45860.0,73860.0,33660.0,46640.0,63200.0,87110.0,122450.0,Bachelor's degree,None,False,True,False,False
+Event Marketing Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Financial Planning Manager,11-3031.00,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Graphic Designer / Desktop Publisher,27-1024.00,39.4,60.5,215930.0,56510.0,30810.0,39000.0,52110.0,68920.0,89210.0,Bachelor's degree,None,False,True,False,False
+Healthcare Account Executive,43-6011.92,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Industrial Designer,27-1021.92,39.4,60.5,32770.0,73820.0,39860.0,53270.0,68890.0,90980.0,114950.0,Bachelor's degree,None,False,True,False,False
+Insurance Sales Agent (General),41-3021.00,51.5,48.4,410050.0,67780.0,28000.0,36520.0,50940.0,77460.0,125500.0,High school diploma or equivalent,None,False,False,True,False
+Internal Auditor,13-2011.02,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Marketing Automation Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Paralegal / Legal Assistant,23-2011.00,55.40000000000001,44.7,329870.0,55020.0,32160.0,39500.0,51740.0,65610.0,82500.0,Associate's degree,None,False,False,True,False
+Printing Press Operator,51-5112.00,91.5,8.6,173430.0,39100.0,23830.0,28840.0,36910.0,47400.0,58740.0,High school diploma or equivalent,None,False,False,True,False
+Product Designer,27-1021.92,39.4,60.5,32770.0,73820.0,39860.0,53270.0,68890.0,90980.0,114950.0,Bachelor's degree,None,False,True,False,False
+Product Marketing Director,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Project / Program Administrative Assistant,43-6014.00,75.8,24.000000000000004,2038340.0,39180.0,24250.0,30100.0,37690.0,47510.0,57570.0,High school diploma or equivalent,None,False,False,True,False
+Public Relations / Communications Specialist,27-3031.94,15.8,84.2,244730.0,70190.0,34590.0,45480.0,61150.0,83170.0,115430.0,Bachelor's degree,None,False,True,False,False
+Retail Operations Supervisor,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Sales Program Manager,41-1012.00,55.39999999999999,44.7,249090.0,86180.0,41780.0,55860.0,74760.0,103830.0,146740.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+VP / Director of Finance,11-3031.01,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+"Administrator, Higher Education",11-9033.00,18.0,82.0,144880.0,112400.0,55320.0,70490.0,95410.0,135070.0,194090.0,Master's degree,Less than 5 years,False,True,False,False
+Campus Recruiter,13-1071.91,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Digital Marketing Analyst,13-1161.91,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Director of Compensation / Benefits,11-3111.00,32.3,67.6,16900.0,134210.0,69870.0,91430.0,122270.0,163980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Director of Human Resources,11-3121.92,40.8,59.2,154800.0,129570.0,68300.0,88150.0,116720.0,156560.0,205720.0,Bachelor's degree,5 years or more,True,False,False,False
+Director of Sales,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Field Marketing Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Healthcare Administrator,11-9111.00,37.5,62.40000000000001,394910.0,115160.0,58820.0,76770.0,100980.0,133520.0,189000.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Manufacturing Machine Operator,51-9012.92,77.4,22.6,51160.0,45370.0,26710.0,32870.0,41330.0,55190.0,70800.0,High school diploma or equivalent,None,False,False,True,False
+Marketing Analytics Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Marketing Director,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Marketing Manager (General),11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Media Planner / Buyer,27-3031.93,15.8,84.2,244730.0,70190.0,34590.0,45480.0,61150.0,83170.0,115430.0,Bachelor's degree,None,False,True,False,False
+Operations Manager,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Production Supervisor,51-1011.91,82.7,17.3,631100.0,65220.0,36740.0,47230.0,61310.0,78830.0,100200.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Production Worker,51-9199.00,92.9,7.1000000000000005,222230.0,33830.0,20320.0,24120.0,29800.0,39330.0,52820.0,High school diploma or equivalent,None,False,False,True,False
+Sales Manager,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Sales Operations Manager,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Senior Compensation / Benefits Analyst,13-1141.00,45.6,54.5,89300.0,69840.0,40140.0,50000.0,64560.0,82920.0,105600.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Senior Operations Analyst,15-2031.00,24.4,75.8,99680.0,90600.0,48670.0,62780.0,84810.0,112680.0,140790.0,Bachelor's degree,None,False,True,False,False
+Senior Payroll Specialist,43-3051.00,76.5,23.5,142700.0,47390.0,30320.0,37000.0,46180.0,57030.0,66210.0,High school diploma or equivalent,None,False,False,True,False
+Territory / Regional Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Vice President of Engineering,11-9041.00,15.6,84.39999999999998,194250.0,152930.0,92510.0,115670.0,144830.0,179220.0,,Bachelor's degree,5 years or more,True,False,False,False
+Life / Health Insurance Sales Agent,41-3021.00,51.5,48.4,410050.0,67780.0,28000.0,36520.0,50940.0,77460.0,125500.0,High school diploma or equivalent,None,False,False,True,False
+Attorney,23-1011.00,1.7999999999999998,98.3,657170.0,145300.0,59670.0,80950.0,122960.0,186350.0,,Doctoral or professional degree,None,False,True,False,False
+Email Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Claims Representative,43-9041.91,70.5,29.4,257000.0,43280.0,28380.0,34030.0,40750.0,50550.0,61910.0,High school diploma or equivalent,None,False,False,True,False
+Collections Specialist,43-3011.00,80.69999999999997,19.4,235870.0,39300.0,25800.0,30740.0,37000.0,45840.0,56860.0,High school diploma or equivalent,None,False,False,True,False
+Insurance Underwriter (General),13-2053.00,41.90000000000001,58.2,100050.0,77640.0,42360.0,53510.0,70020.0,94390.0,124320.0,Bachelor's degree,None,False,True,False,False
+Loan Underwriter,13-2072.00,49.0,51.1,308370.0,76200.0,32560.0,44840.0,63270.0,92960.0,132680.0,Bachelor's degree,None,False,True,False,False
+Mid-Market Account Executive,43-6011.92,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Personal Financial Advisor (General),13-2052.00,19.5,80.5,210190.0,119290.0,42950.0,57780.0,87850.0,154480.0,,Bachelor's degree,None,False,True,False,False
+Construction Manager,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Financial Planner / Investment Consultant,13-2052.00,19.5,80.5,210190.0,119290.0,42950.0,57780.0,87850.0,154480.0,,Bachelor's degree,None,False,True,False,False
+Financial Services Manager,11-3031.00,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+HRIS Analyst / Specialist,13-1071.92,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Sales Delivery Driver,53-3031.00,93.3,6.6000000000000005,444660.0,30230.0,18060.0,20040.0,25860.0,37500.0,48970.0,High school diploma or equivalent,None,False,False,True,False
+Senior Business Analyst,13-1111.00,22.1,77.89999999999998,709750.0,95560.0,49700.0,64060.0,85260.0,113770.0,154310.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Tax Analyst,13-2011.91,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Accounting Clerk,43-3031.00,79.89999999999998,20.1,1512660.0,42960.0,25870.0,33020.0,41230.0,51370.0,62410.0,"Some college, no degree",None,False,False,True,False
+Tax Specialist,13-2011.91,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Junior Business Analyst,13-1111.00,22.1,77.89999999999998,709750.0,95560.0,49700.0,64060.0,85260.0,113770.0,154310.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Medical Director (General),11-9111.94,37.5,62.40000000000001,394910.0,115160.0,58820.0,76770.0,100980.0,133520.0,189000.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Operations Analyst (General),15-2031.00,24.4,75.8,99680.0,90600.0,48670.0,62780.0,84810.0,112680.0,140790.0,Bachelor's degree,None,False,True,False,False
+Registered Nurse,29-1141.00,37.7,62.2,2982280.0,77460.0,52080.0,60110.0,73300.0,90760.0,111220.0,Bachelor's degree,None,False,True,False,False
+Territory / Regional Director of Sales,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Tax Accountant,13-2011.93,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Auto Body Technician,49-3021.00,97.2,2.7,144180.0,47390.0,26710.0,33870.0,43580.0,57370.0,73470.0,High school diploma or equivalent,None,False,False,True,False
+Bartender,35-3011.00,80.1,19.9,646850.0,28000.0,17780.0,19390.0,23680.0,31390.0,46140.0,No formal educational credential,None,False,False,False,True
+Bell Person / Baggage Attendant,39-6011.00,78.8,21.3,39790.0,28230.0,18690.0,21580.0,25580.0,31550.0,39510.0,High school diploma or equivalent,None,False,False,False,True
+Biological Technician,19-4021.00,53.2,46.8,79530.0,49110.0,29540.0,35870.0,45860.0,59210.0,73350.0,Bachelor's degree,None,False,False,True,False
+Building and General Maintenance Technician,49-9071.91,92.4,7.6,1418990.0,41960.0,24600.0,30590.0,39080.0,51030.0,63140.0,High school diploma or equivalent,None,False,False,True,False
+Busser / Banquet Worker / Cafeteria Attendant,35-9011.00,91.4,8.7,477270.0,25020.0,17870.0,19590.0,23470.0,27140.0,34600.0,No formal educational credential,None,False,False,False,True
+Cashier,41-2011.00,88.19999999999997,11.8,3596630.0,24370.0,18150.0,20320.0,23650.0,26550.0,31270.0,No formal educational credential,None,False,False,False,True
+Catering Sales Manager,41-1012.00,55.39999999999999,44.7,249090.0,86180.0,41780.0,55860.0,74760.0,103830.0,146740.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Chef,35-1011.00,86.0,14.0,128190.0,56310.0,28370.0,37380.0,51530.0,68500.0,86990.0,High school diploma or equivalent,5 years or more,True,False,False,False
+Cook,35-2011.00,94.3,5.800000000000002,527220.0,23530.0,17540.0,19450.0,23510.0,26410.0,30490.0,No formal educational credential,None,False,False,False,True
+Director of Engineering,11-9041.00,15.6,84.39999999999998,194250.0,152930.0,92510.0,115670.0,144830.0,179220.0,,Bachelor's degree,5 years or more,True,False,False,False
+Dishwasher,35-9021.00,96.1,4.0,514330.0,24410.0,18360.0,20580.0,23970.0,26760.0,30950.0,No formal educational credential,None,False,False,False,True
+Entertainment / Recreation Attendant,39-3091.00,71.2,28.8,338110.0,24330.0,17820.0,19560.0,23370.0,26680.0,32130.0,No formal educational credential,None,False,False,False,True
+Event Planner,13-1121.00,35.0,65.0,117610.0,54880.0,28590.0,37640.0,50600.0,65860.0,86390.0,Bachelor's degree,None,False,True,False,False
+HVAC Mechanic / Installer,49-9021.00,94.0,6.000000000000001,342040.0,51420.0,30610.0,37660.0,48730.0,62070.0,77920.0,Postsecondary nondegree award,None,False,False,True,False
+Host / Hostess,35-9031.00,79.39999999999998,20.6,423380.0,24010.0,17600.0,19290.0,23090.0,26350.0,31560.0,No formal educational credential,None,False,False,False,True
+Hotel & Resort Security Officer,33-9032.00,83.0,17.099999999999998,1126370.0,33030.0,21150.0,24650.0,29680.0,37950.0,50310.0,High school diploma or equivalent,None,False,False,True,False
+Hotel Desk Clerk,43-4081.00,80.1,20.0,267940.0,25950.0,18340.0,20940.0,24470.0,29160.0,35550.0,High school diploma or equivalent,None,False,False,False,True
+Hotel Manager,11-9081.00,55.5,44.6,38340.0,63570.0,31380.0,40010.0,54430.0,75130.0,105720.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Housekeeping / Environmental Services Supervisor,37-1011.00,84.39999999999998,15.499999999999998,155550.0,44160.0,26240.0,31900.0,40780.0,53890.0,67340.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Human Resources Assistant,43-4161.00,62.2,37.8,117340.0,42620.0,28760.0,34470.0,41430.0,49640.0,59320.0,Associate's degree,None,False,False,True,False
+Laundry Worker,51-6011.00,95.6,4.5,209330.0,25420.0,18500.0,20920.0,24220.0,28540.0,33970.0,No formal educational credential,None,False,False,False,True
+Lifeguard,33-9092.00,57.5,42.4,143940.0,25380.0,17830.0,19720.0,23420.0,27620.0,35930.0,No formal educational credential,None,False,False,False,True
+Maid / Housekeeping Staff,37-2012.00,94.40000000000002,5.5,926960.0,26810.0,18680.0,21290.0,24850.0,30080.0,37900.0,No formal educational credential,None,False,False,False,True
+Maintenance Manager,49-1011.00,85.39999999999998,14.6,485700.0,70550.0,40880.0,52300.0,67460.0,85960.0,105810.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Nanny / Babysitter,39-9011.01,80.89999999999998,19.1,561520.0,25510.0,18000.0,20210.0,24230.0,29220.0,35800.0,High school diploma or equivalent,None,False,False,False,True
+Night Auditor,43-4081.91,80.1,20.0,267940.0,25950.0,18340.0,20940.0,24470.0,29160.0,35550.0,High school diploma or equivalent,None,False,False,True,False
+Physical Therapist,29-1123.00,5.5,94.6,233350.0,90170.0,62120.0,73940.0,89440.0,104210.0,124740.0,Doctoral or professional degree,None,False,True,False,False
+Purchasing Assistant,43-3061.00,53.3,46.7,66030.0,43980.0,29450.0,35530.0,43310.0,51290.0,59920.0,High school diploma or equivalent,None,False,False,True,False
+Receptionist,43-4171.00,82.89999999999998,17.099999999999998,1057370.0,31250.0,21130.0,25050.0,30050.0,36680.0,43380.0,High school diploma or equivalent,None,False,False,False,True
+Recreation Manager,11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Restaurant / Food Service Manager,11-9051.00,74.10000000000002,25.9,235470.0,59820.0,33210.0,42260.0,55320.0,71270.0,93040.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Retail Store Manager,41-1011.00,73.7,26.4,1171900.0,45830.0,26290.0,31960.0,40350.0,54290.0,70060.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Retail Store Supervisor,41-1011.00,73.7,26.4,1171900.0,45830.0,26290.0,31960.0,40350.0,54290.0,70060.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Sales Coordinator,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Sales Supervisor,41-1012.00,55.39999999999999,44.7,249090.0,86180.0,41780.0,55860.0,74760.0,103830.0,146740.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Scheduler / Operations Coordinator,43-5061.00,64.7,35.2,370380.0,50640.0,30190.0,37180.0,48260.0,61650.0,76100.0,High school diploma or equivalent,None,False,False,True,False
+Shipping / Receiving Clerk,43-5071.00,90.2,9.8,704910.0,36030.0,23940.0,28030.0,34190.0,41760.0,51560.0,High school diploma or equivalent,None,False,False,True,False
+Social / Human Services Manager,11-9151.00,26.9,73.1,156460.0,72900.0,41220.0,52480.0,67150.0,88180.0,112480.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Switchboard / Telephone Operator,43-2011.00,81.1,18.8,68050.0,33030.0,21870.0,25670.0,30610.0,37790.0,47970.0,High school diploma or equivalent,None,False,False,True,False
+Waiter / Waitress,35-3031.00,84.1,15.8,2579020.0,26800.0,17420.0,18950.0,22890.0,29620.0,42950.0,No formal educational credential,None,False,False,False,True
+Customer Service Manager,43-1011.92,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Merchandiser,27-1026.92,39.4,60.5,140850.0,32940.0,21630.0,24710.0,29460.0,37330.0,49410.0,High school diploma or equivalent,None,False,False,False,True
+Television / Satellite Television Installer,49-2097.00,88.10000000000002,11.8,25590.0,42130.0,24200.0,31710.0,39510.0,51750.0,62730.0,Postsecondary nondegree award,None,False,False,True,False
+Kitchen Staff,35-2021.00,89.4,10.7,863740.0,25820.0,18220.0,20800.0,24800.0,29650.0,35500.0,No formal educational credential,None,False,False,False,True
+Production Plant Manager,51-1011.92,82.7,17.3,631100.0,65220.0,36740.0,47230.0,61310.0,78830.0,100200.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Land Development Project Manager,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Baker,51-3011.00,88.0,12.0,184990.0,29630.0,20310.0,23480.0,27700.0,34120.0,41640.0,No formal educational credential,None,False,False,True,False
+Call Center Sales Representative,41-9041.00,77.9,22.0,134800.0,29770.0,19170.0,22170.0,26290.0,33960.0,44480.0,No formal educational credential,None,False,False,True,False
+Coach,27-2022.00,38.4,61.6,241390.0,44910.0,19040.0,23950.0,34840.0,53980.0,78890.0,Bachelor's degree,None,False,True,False,False
+Concierge,39-6012.00,78.8,21.3,41670.0,34290.0,22250.0,26090.0,31390.0,39640.0,51270.0,High school diploma or equivalent,None,False,False,False,True
+Janitor / Cleaner,37-2011.00,94.1,5.9,2145450.0,30010.0,19620.0,23050.0,27430.0,34950.0,44880.0,No formal educational credential,None,False,False,False,True
+Retail Sales Consultant,41-2031.00,73.7,26.3,4317950.0,29360.0,18900.0,21780.0,25250.0,31480.0,42780.0,No formal educational credential,None,False,False,True,False
+Chief Executive Officer,11-1011.00,30.2,69.89999999999999,205890.0,193850.0,62290.0,112790.0,184460.0,,,Bachelor's degree,5 years or more,True,False,False,False
+Chief Executive Officer,43-6011.91,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,False,False
+Engineering Manager (General),11-9041.00,15.6,84.39999999999998,194250.0,152930.0,92510.0,115670.0,144830.0,179220.0,,Bachelor's degree,5 years or more,True,False,False,False
+Landscaping / Groundskeeping Worker,37-3011.00,92.1,7.8,912660.0,32360.0,21710.0,25450.0,30440.0,37480.0,46530.0,No formal educational credential,None,False,False,False,True
+Maintenance Helper / Assistant,49-9098.00,91.1,9.0,99460.0,32570.0,20790.0,25020.0,30530.0,38020.0,48200.0,High school diploma or equivalent,None,False,False,False,True
+Floor Supervisor,41-1011.00,73.7,26.4,1171900.0,45830.0,26290.0,31960.0,40350.0,54290.0,70060.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Hospitality Front Office Manager,43-1011.91,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Reservation / Ticket Agent,43-4181.00,71.8,28.1,123660.0,44390.0,24750.0,29260.0,38380.0,61340.0,72630.0,High school diploma or equivalent,None,False,False,False,True
+Accountant (General),13-2011.93,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Accounting Manager,11-3031.00,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Accounts Payable / Receivable Manager,43-1011.98,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Digital Marketing Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Director of Operations,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Financial Reporting Accountant,13-2011.93,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Financial Reporting Manager,11-3031.92,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Health and Safety Engineer,17-2111.00,27.2,72.9,25860.0,94810.0,53650.0,68940.0,91410.0,118440.0,143880.0,Bachelor's degree,None,False,True,False,False
+Retail Merchandiser,27-1026.92,39.4,60.5,140850.0,32940.0,21630.0,24710.0,29460.0,37330.0,49410.0,High school diploma or equivalent,None,False,False,False,True
+Retail Pricing Coordinator,41-2031.00,73.7,26.3,4317950.0,29360.0,18900.0,21780.0,25250.0,31480.0,42780.0,No formal educational credential,None,False,False,True,False
+Revenue Accountant,13-2011.93,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Senior Accountant,13-2011.93,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Social Media Strategist / Specialist,13-1161.93,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Technical Product Manager,11-2021.92,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Training and Development Manager,11-3131.00,36.2,63.8,38510.0,123470.0,64720.0,84720.0,113350.0,152340.0,196070.0,Bachelor's degree,5 years or more,True,False,False,False
+Actor,27-2011.00,37.4,62.6,52620.0,,,,,,,"Some college, no degree",None,False,False,False,True
+Real Estate Agent,41-9021.00,50.3,49.7,42730.0,81450.0,23600.0,35940.0,59720.0,95790.0,178720.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Manicurist / Pedicurist,39-5092.00,88.0,12.0,111780.0,27390.0,20230.0,23420.0,25770.0,30200.0,36730.0,Postsecondary nondegree award,None,False,False,False,True
+Packager,53-7064.00,94.3,5.8,633640.0,27680.0,19510.0,22800.0,25910.0,31120.0,38320.0,No formal educational credential,None,False,False,False,True
+Tractor-Trailer Truck Driver (General),53-3032.00,93.3,6.6000000000000005,1856130.0,46850.0,29130.0,36250.0,45260.0,55850.0,66840.0,Postsecondary nondegree award,None,False,False,True,False
+Elementary School Teacher,25-2021.00,5.1,94.9,1430480.0,63930.0,39020.0,47300.0,59670.0,77440.0,97900.0,Bachelor's degree,None,False,True,False,False
+Hazardous Materials Worker,47-4041.91,84.2,15.7,44240.0,47740.0,29100.0,35070.0,43900.0,57860.0,74650.0,High school diploma or equivalent,None,False,False,True,False
+Middle / High School Teacher,25-2031.00,3.9,96.0,1035850.0,65930.0,40540.0,49060.0,61660.0,79820.0,99660.0,Bachelor's degree,None,False,True,False,False
+Security Officer,33-9032.00,83.0,17.099999999999998,1126370.0,33030.0,21150.0,24650.0,29680.0,37950.0,50310.0,High school diploma or equivalent,None,False,False,False,True
+Managing Director (General),11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Audio / Visual Technician,27-4011.00,63.8,36.2,73960.0,51260.0,26690.0,34270.0,45910.0,62610.0,83170.0,Postsecondary nondegree award,None,False,False,True,False
+Ship / Boat Captain,53-5021.00,78.1,22.0,33370.0,87420.0,37270.0,50020.0,72340.0,105330.0,153700.0,Postsecondary nondegree award,Less than 5 years,False,False,True,False
+Counter Sales Clerk,41-2021.00,80.7,19.3,411560.0,32600.0,19620.0,23630.0,28820.0,37910.0,50860.0,No formal educational credential,None,False,False,False,True
+Director of Religious Education,21-2021.00,30.0,70.0,21820.0,50490.0,23540.0,30580.0,43860.0,62240.0,90870.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Massage Therapist,31-9011.00,72.9,27.3,107240.0,47180.0,21810.0,29420.0,42820.0,59370.0,80630.0,Postsecondary nondegree award,None,False,False,False,True
+Barber / Hair Stylist / Cosmetologist,39-5012.00,92.9,7.0,385960.0,31530.0,18420.0,20900.0,26090.0,36730.0,51870.0,Postsecondary nondegree award,None,False,False,True,False
+Accounts Receivable / Payable Clerk,43-3031.00,79.89999999999998,20.1,1512660.0,42960.0,25870.0,33020.0,41230.0,51370.0,62410.0,"Some college, no degree",None,False,False,True,False
+Administrative Clerk / Coordinator,43-6014.00,75.8,24.000000000000004,2038340.0,39180.0,24250.0,30100.0,37690.0,47510.0,57570.0,High school diploma or equivalent,None,False,False,True,False
+Business Process Analyst,13-1111.00,22.1,77.89999999999998,709750.0,95560.0,49700.0,64060.0,85260.0,113770.0,154310.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Payroll Administrator,43-3051.00,76.5,23.5,142700.0,47390.0,30320.0,37000.0,46180.0,57030.0,66210.0,High school diploma or equivalent,None,False,False,True,False
+Carpenter,47-2031.00,93.2,6.9,734170.0,52850.0,30170.0,37140.0,48330.0,63050.0,84690.0,High school diploma or equivalent,None,False,False,True,False
+Marketing & Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Estimator,13-1051.00,62.5,37.4,210000.0,71350.0,39380.0,51300.0,65250.0,86080.0,111350.0,Bachelor's degree,None,False,False,True,False
+Accounts Receivable / Payable Specialist,43-3031.00,79.89999999999998,20.1,1512660.0,42960.0,25870.0,33020.0,41230.0,51370.0,62410.0,"Some college, no degree",None,False,False,True,False
+File Clerk,43-4071.00,75.60000000000002,24.4,102300.0,34610.0,22150.0,26370.0,32710.0,40280.0,50740.0,High school diploma or equivalent,None,False,False,True,False
+Industrial / Mechanical Engineering Technician,49-9071.91,92.4,7.6,1418990.0,41960.0,24600.0,30590.0,39080.0,51030.0,63140.0,High school diploma or equivalent,None,False,False,True,False
+Inventory / Supply Specialist,43-5111.00,83.69999999999997,16.4,60920.0,36650.0,23980.0,28190.0,35040.0,43320.0,51540.0,High school diploma or equivalent,None,False,False,True,False
+Inventory Control Manager,11-3071.03,69.4,30.7,132040.0,103320.0,55850.0,72050.0,94560.0,124460.0,160500.0,High school diploma or equivalent,5 years or more,True,False,False,False
+Water Resource Specialist,11-9121.02,6.5,93.5,67720.0,145450.0,66050.0,94940.0,129100.0,176510.0,,Bachelor's degree,5 years or more,True,False,False,False
+Automotive Service Technician / Mechanic,49-3023.00,95.9,4.1,655330.0,44890.0,24400.0,31250.0,42090.0,56140.0,68880.0,Postsecondary nondegree award,None,False,False,True,False
+Maintenance Supervisor,49-1011.00,85.39999999999998,14.6,485700.0,70550.0,40880.0,52300.0,67460.0,85960.0,105810.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Sales and Marketing Manager,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Construction Project Manager,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Sales and Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Warehouse Manager,11-3071.02,69.4,30.7,132040.0,103320.0,55850.0,72050.0,94560.0,124460.0,160500.0,High school diploma or equivalent,5 years or more,True,False,False,False
+Construction Foreman,47-1011.00,88.6,11.4,626180.0,71440.0,42730.0,53400.0,66210.0,85540.0,106900.0,High school diploma or equivalent,5 years or more,True,False,False,False
+Fire Chief / Marshal,33-1021.00,67.8,32.1,69590.0,82010.0,43150.0,58540.0,77800.0,101430.0,126720.0,Postsecondary nondegree award,Less than 5 years,False,False,True,False
+Laborer / Warehouse Worker,53-7062.00,93.1,7.0,2953170.0,32130.0,21410.0,24570.0,29510.0,37150.0,47140.0,No formal educational credential,None,False,False,False,True
+Billing Specialist,43-3021.00,80.2,19.8,466450.0,40620.0,27650.0,32940.0,38740.0,47580.0,57300.0,High school diploma or equivalent,None,False,False,True,False
+Water Treatment Specialist / Waste Water Operator,51-8031.00,86.3,13.6,123730.0,50490.0,28850.0,36740.0,47760.0,61220.0,77600.0,High school diploma or equivalent,None,False,False,True,False
+Drywall Installer / Finisher,47-2081.00,96.7,3.2,102850.0,50560.0,28490.0,35600.0,45700.0,60190.0,85090.0,No formal educational credential,None,False,False,True,False
+Outside Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Claims Supervisor,13-1031.00,51.8,48.1,287960.0,68940.0,41100.0,51030.0,66790.0,83050.0,100400.0,High school diploma or equivalent,None,False,False,True,False
+Data Entry Clerk,43-9021.00,75.3,24.8,159930.0,34820.0,23380.0,27700.0,33490.0,39850.0,49190.0,High school diploma or equivalent,None,False,False,True,False
+Engineering Project Manager,11-9041.00,15.6,84.39999999999998,194250.0,152930.0,92510.0,115670.0,144830.0,179220.0,,Bachelor's degree,5 years or more,True,False,False,False
+Firefighter,33-2011.00,76.9,23.200000000000006,324620.0,54650.0,25550.0,34470.0,50850.0,69040.0,92020.0,Postsecondary nondegree award,None,False,False,True,False
+Insurance Inspector,13-1031.00,51.8,48.1,287960.0,68940.0,41100.0,51030.0,66790.0,83050.0,100400.0,High school diploma or equivalent,None,False,False,True,False
+Personal Assistant,43-6014.00,75.8,24.000000000000004,2038340.0,39180.0,24250.0,30100.0,37690.0,47510.0,57570.0,High school diploma or equivalent,None,False,False,False,True
+Quality Inspector,51-9061.00,82.8,17.2,576950.0,43000.0,24660.0,30390.0,39140.0,51990.0,66260.0,High school diploma or equivalent,None,False,False,True,False
+Secretary,43-6014.00,75.8,24.000000000000004,2038340.0,39180.0,24250.0,30100.0,37690.0,47510.0,57570.0,High school diploma or equivalent,None,False,False,False,True
+Marketing Assistant / Associate,27-3031.91,15.8,84.2,244730.0,70190.0,34590.0,45480.0,61150.0,83170.0,115430.0,Bachelor's degree,None,False,True,False,False
+Construction Helper / Worker,47-2061.00,94.1,5.9,1020350.0,41730.0,24880.0,29700.0,36860.0,49160.0,67910.0,No formal educational credential,None,False,False,False,True
+Telecommunications Field Technician,49-2022.00,83.5,16.499999999999996,208480.0,58560.0,33090.0,43570.0,57910.0,73480.0,85620.0,Postsecondary nondegree award,None,False,False,True,False
+Digital Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Repair / Service Technician,49-9099.00,88.39999999999998,11.5,161290.0,43800.0,25440.0,31380.0,39830.0,53670.0,65800.0,High school diploma or equivalent,None,False,False,True,False
+Surveying / Mapping Technician,17-3031.00,93.0,6.9,53030.0,48500.0,28410.0,34960.0,45010.0,59070.0,75190.0,High school diploma or equivalent,None,False,False,True,False
+Brand Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Emergency Management Director,11-9161.00,32.40000000000001,67.6,10060.0,82530.0,40430.0,54050.0,74590.0,103330.0,141230.0,Bachelor's degree,5 years or more,True,False,False,False
+Field Operations Manager,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Dispatcher,43-5031.00,82.9,17.0,95320.0,44310.0,27190.0,33650.0,41910.0,52650.0,64950.0,High school diploma or equivalent,None,False,False,True,False
+Painter,47-2141.00,93.9,6.2,232760.0,44640.0,27130.0,33120.0,40280.0,53290.0,67560.0,No formal educational credential,None,False,False,False,True
+Carpet Installer,47-2041.00,96.0,4.0,26010.0,45320.0,24570.0,30990.0,40090.0,56180.0,74240.0,No formal educational credential,None,False,False,True,False
+Conservation Scientist / Park Ranger,19-1031.01,0.0,100.0,22070.0,67040.0,39270.0,49480.0,62660.0,79630.0,98060.0,Bachelor's degree,None,False,True,False,False
+Water / Wastewater Engineer,17-2081.01,9.9,90.00000000000001,53150.0,94220.0,54330.0,68000.0,88860.0,114250.0,142070.0,Bachelor's degree,None,False,True,False,False
+Molding / Casting Worker,51-4072.91,93.0,7.1000000000000005,172520.0,34670.0,22450.0,26400.0,32130.0,40490.0,50840.0,High school diploma or equivalent,None,False,False,True,False
+Quality Control Technician,51-9061.00,82.8,17.2,576950.0,43000.0,24660.0,30390.0,39140.0,51990.0,66260.0,High school diploma or equivalent,None,False,False,True,False
+Bookkeeper,43-3031.00,79.89999999999998,20.1,1512660.0,42960.0,25870.0,33020.0,41230.0,51370.0,62410.0,"Some college, no degree",None,False,False,True,False
+Commercial Construction Project Manager,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Curator / Museum Director,25-4012.91,19.4,80.49999999999999,12890.0,59130.0,30740.0,40980.0,54570.0,73370.0,94750.0,Master's degree,None,False,True,False,False
+Controller (General),11-3031.01,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Route Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Butcher / Meat Cutter,51-3021.00,96.3,3.8,136770.0,34010.0,21780.0,25680.0,32500.0,40660.0,49630.0,No formal educational credential,None,False,False,True,False
+Quality Manager (General),11-3051.01,54.89999999999999,45.2,185790.0,115110.0,65050.0,82400.0,105480.0,136880.0,176070.0,Bachelor's degree,5 years or more,True,False,False,False
+Outside Sales Account Manager,13-2011.94,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Residential Construction Project Manager,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Residential Construction Superintendent,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Environmental Engineer,17-2081.00,9.9,90.00000000000001,53150.0,94220.0,54330.0,68000.0,88860.0,114250.0,142070.0,Bachelor's degree,None,False,True,False,False
+Light Truck Delivery Driver,53-3033.00,93.3,6.6000000000000005,923050.0,38520.0,21060.0,25730.0,34730.0,47700.0,65400.0,High school diploma or equivalent,None,False,False,True,False
+Marketing Account Executive,43-6011.92,75.8,24.000000000000004,542690.0,62920.0,37890.0,48020.0,60890.0,75820.0,91330.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Farm / Nursery / Greenhouse Worker,45-2092.00,93.6,6.4,295520.0,27780.0,23010.0,23920.0,25440.0,29780.0,36910.0,No formal educational credential,None,False,False,True,False
+Payroll Accountant,13-2011.93,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Construction Superintendent,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Recycling / Sanitation Worker,53-7081.00,95.4,4.5,121330.0,41400.0,22780.0,28880.0,37840.0,50240.0,67370.0,No formal educational credential,None,False,False,True,False
+Auto Parts Delivery Driver,53-3031.00,93.3,6.6000000000000005,444660.0,30230.0,18060.0,20040.0,25860.0,37500.0,48970.0,High school diploma or equivalent,None,False,False,True,False
+Residential Construction Manager,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Electronics Technician,17-3023.00,79.6,20.3,122550.0,66240.0,39190.0,50790.0,65260.0,78910.0,96690.0,Associate's degree,None,False,False,True,False
+Environmental Planner / Scientist,19-2041.00,0.0,100.0,84290.0,77940.0,42810.0,54100.0,71360.0,95140.0,124760.0,Bachelor's degree,None,False,True,False,False
+Fire Inspector / Investigator,33-2021.91,81.8,18.3,13710.0,64730.0,38090.0,48060.0,61660.0,78180.0,96400.0,Postsecondary nondegree award,5 years or more,True,False,False,False
+Civil Engineering Technician,17-3022.00,79.6,20.3,68870.0,55480.0,33880.0,40590.0,53410.0,67070.0,80650.0,Associate's degree,None,False,False,True,False
+Assistant General Manager,11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Marketing Consultant,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Accounting Specialist,43-3031.00,79.89999999999998,20.1,1512660.0,42960.0,25870.0,33020.0,41230.0,51370.0,62410.0,"Some college, no degree",None,False,False,True,False
+Inside Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Cost Accounting Manager,11-3031.00,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Marketing Operations Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Sales and Marketing Director,11-2022.00,30.3,69.8,402600.0,141690.0,59810.0,85150.0,126640.0,177830.0,,Bachelor's degree,Less than 5 years,False,True,False,False
+Independent Contractor Truck Driver,53-3032.00,93.3,6.6000000000000005,1856130.0,46850.0,29130.0,36250.0,45260.0,55850.0,66840.0,Postsecondary nondegree award,None,False,False,True,False
+Content Marketing Manager,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Compliance Officer / Analyst,13-1041.00,35.7,64.2,317600.0,72850.0,38920.0,51050.0,69050.0,91260.0,109950.0,Bachelor's degree,None,False,True,False,False
+Pest Control Technician,37-2021.00,89.8,10.2,79450.0,39910.0,24920.0,30120.0,37330.0,48150.0,60320.0,High school diploma or equivalent,None,False,False,True,False
+Landscaping / Grounds Supervisor,37-1012.00,80.3,19.7,103580.0,52340.0,32380.0,38850.0,49370.0,62520.0,78220.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Property Manager,11-9141.91,57.7,42.2,220750.0,71720.0,31030.0,41630.0,58760.0,84430.0,129160.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Senior Office / Administrative Assistant,43-6014.00,75.8,24.000000000000004,2038340.0,39180.0,24250.0,30100.0,37690.0,47510.0,57570.0,High school diploma or equivalent,None,False,False,True,False
+Staffing Specialist,13-1071.91,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Detailer,53-7061.00,95.7,4.3,382670.0,27940.0,19150.0,22360.0,25800.0,31210.0,39010.0,No formal educational credential,None,False,False,False,True
+Quality Assurance Manager,11-3051.01,54.89999999999999,45.2,185790.0,115110.0,65050.0,82400.0,105480.0,136880.0,176070.0,Bachelor's degree,5 years or more,True,False,False,False
+Press / Press Brake Operator,51-4031.00,96.0,3.9,195040.0,37310.0,24920.0,29030.0,35610.0,44150.0,53520.0,High school diploma or equivalent,None,False,False,True,False
+Assistant Property Manager,11-9141.91,57.7,42.2,220750.0,71720.0,31030.0,41630.0,58760.0,84430.0,129160.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Roofing / Siding Worker,47-2181.00,97.09999999999998,2.9,129690.0,45820.0,26540.0,33160.0,42100.0,55440.0,70920.0,No formal educational credential,None,False,False,True,False
+Field Sales Representative,41-4011.00,51.0,49.0,306980.0,92980.0,41080.0,57050.0,81020.0,117560.0,158580.0,Bachelor's degree,None,False,False,True,False
+Research Associate,25-4013.00,19.4,80.49999999999999,13190.0,48030.0,26110.0,33530.0,44430.0,58470.0,76330.0,Bachelor's degree,None,False,True,False,False
+Construction Director,11-9021.00,66.5,33.599999999999994,293380.0,105000.0,56140.0,71900.0,95260.0,126040.0,164790.0,Bachelor's degree,None,False,False,True,False
+Brand Ambassador,41-9011.00,75.4,24.8,77760.0,35320.0,21750.0,25230.0,30930.0,41880.0,54490.0,No formal educational credential,None,False,False,True,False
+Marketing Associate,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Construction Office Manager,43-1011.91,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Accounting Supervisor,43-1011.97,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Assistant Controller,11-3031.01,35.80000000000001,64.2,654790.0,147530.0,68370.0,92310.0,129890.0,181980.0,,Bachelor's degree,5 years or more,True,False,False,False
+Automotive Customer Service Representative,43-4051.00,73.39999999999998,26.7,2919230.0,37320.0,22980.0,27630.0,34710.0,43980.0,56380.0,High school diploma or equivalent,None,False,False,True,False
+Budget Analyst,13-2031.00,26.1,73.9,51460.0,80300.0,50230.0,61040.0,76540.0,96780.0,116510.0,Bachelor's degree,None,False,True,False,False
+Call Center Manager,43-1011.93,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Chief Marketing Officer,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Claims Adjuster / Specialist,13-1031.00,51.8,48.1,287960.0,68940.0,41100.0,51030.0,66790.0,83050.0,100400.0,High school diploma or equivalent,None,False,False,True,False
+Curriculum and Instructional Designer / Developer,25-9031.00,18.4,81.6,176690.0,69180.0,38260.0,50930.0,66290.0,85090.0,103790.0,Master's degree,5 years or more,True,False,False,False
+Customer Care Manager,43-1011.92,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Director of Case Management,11-9111.00,37.5,62.40000000000001,394910.0,115160.0,58820.0,76770.0,100980.0,133520.0,189000.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Healthcare Customer Service Representative,43-4051.00,73.39999999999998,26.7,2919230.0,37320.0,22980.0,27630.0,34710.0,43980.0,56380.0,High school diploma or equivalent,None,False,False,True,False
+Inside Sales Account Manager,13-2011.94,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Inside Sales Manager,41-1012.00,55.39999999999999,44.7,249090.0,86180.0,41780.0,55860.0,74760.0,103830.0,146740.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Inventory Analyst,13-1081.91,55.8,44.4,182050.0,78680.0,44020.0,57080.0,74750.0,96240.0,120400.0,Bachelor's degree,None,False,False,True,False
+Key Account Manager,13-2011.94,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Marketing Analytics Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Medical Research Specialist,19-1042.00,1.8,98.2,127180.0,98770.0,49020.0,61920.0,88790.0,121850.0,159680.0,Doctoral or professional degree,None,False,True,False,False
+Quality Control Analyst,19-4099.01,51.3,48.6,64260.0,53670.0,30050.0,38010.0,50550.0,63940.0,81710.0,Associate's degree,None,False,False,True,False
+Regulatory Affairs Specialist,13-1041.07,35.7,64.2,317600.0,72850.0,38920.0,51050.0,69050.0,91260.0,109950.0,Bachelor's degree,None,False,True,False,False
+Security Supervisor,33-9032.00,83.0,17.099999999999998,1126370.0,33030.0,21150.0,24650.0,29680.0,37950.0,50310.0,High school diploma or equivalent,None,False,False,True,False
+Technical Recruiter,13-1071.91,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Training and Development Specialist,13-1151.00,44.1,55.9,312450.0,65640.0,32680.0,44680.0,61210.0,81290.0,104200.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Cargo Coordinator / Freight Forwarder,43-5011.00,80.8,19.2,95810.0,46770.0,26780.0,34080.0,43740.0,55940.0,69040.0,High school diploma or equivalent,None,False,False,True,False
+Event Marketing Specialist,13-1161.00,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Telemarketer,41-9041.00,77.9,22.0,134800.0,29770.0,19170.0,22170.0,26290.0,33960.0,44480.0,No formal educational credential,None,False,False,True,False
+Account Representative,13-2011.94,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Surgical Technician / Technologist,29-2055.00,78.2,21.7,109000.0,50110.0,33420.0,39760.0,48300.0,59320.0,71400.0,Postsecondary nondegree award,None,False,False,True,False
+Payroll Clerk,43-3051.00,76.5,23.5,142700.0,47390.0,30320.0,37000.0,46180.0,57030.0,66210.0,High school diploma or equivalent,None,False,False,True,False
+Product Demonstrator,41-9011.00,75.4,24.8,77760.0,35320.0,21750.0,25230.0,30930.0,41880.0,54490.0,No formal educational credential,None,False,False,True,False
+Automotive General Manager,11-1021.92,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Auto Damage Appraiser,13-1032.00,51.8,48.1,13750.0,66240.0,44430.0,53430.0,63270.0,77810.0,93720.0,Postsecondary nondegree award,None,False,False,True,False
+Medical Secretary,43-6013.00,75.8,24.000000000000004,604780.0,38090.0,26180.0,30590.0,36580.0,44650.0,53230.0,High school diploma or equivalent,None,False,False,True,False
+Insurance Customer Service Representative,43-4051.00,73.39999999999998,26.7,2919230.0,37320.0,22980.0,27630.0,34710.0,43980.0,56380.0,High school diploma or equivalent,None,False,False,True,False
+Diesel Mechanic,49-3031.00,96.2,3.7,266330.0,50360.0,31990.0,38810.0,48500.0,60160.0,74090.0,High school diploma or equivalent,None,False,False,True,False
+Mechanical / Electrical Drafter,17-3013.00,72.30000000000003,27.6,55210.0,60500.0,36350.0,45050.0,57060.0,72460.0,92010.0,Associate's degree,None,False,False,True,False
+Clinical Supervisor / Manager,11-9111.00,37.5,62.40000000000001,394910.0,115160.0,58820.0,76770.0,100980.0,133520.0,189000.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Vice President of Marketing,11-2021.91,30.3,69.8,263680.0,149200.0,71010.0,97710.0,136850.0,185320.0,,Bachelor's degree,5 years or more,True,False,False,False
+Retail Sales Representative,41-2031.00,73.7,26.3,4317950.0,29360.0,18900.0,21780.0,25250.0,31480.0,42780.0,No formal educational credential,None,False,False,False,True
+Human Resources Consultant,13-1071.92,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Police Officer,33-3051.01,60.2,39.8,665280.0,67600.0,36960.0,47190.0,63150.0,84440.0,105230.0,High school diploma or equivalent,None,False,False,False,False
+Assistant Retail Store Manager,41-1011.00,73.7,26.4,1171900.0,45830.0,26290.0,31960.0,40350.0,54290.0,70060.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Automotive Service Manager,49-1011.00,85.39999999999998,14.6,485700.0,70550.0,40880.0,52300.0,67460.0,85960.0,105810.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Market Research Analyst,13-1161.91,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Marketing Campaign Analyst,13-1161.91,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Senior Insurance Underwriter,13-2053.00,41.90000000000001,58.2,100050.0,77640.0,42360.0,53510.0,70020.0,94390.0,124320.0,Bachelor's degree,None,False,True,False,False
+Physician Assistant,29-1071.91,6.1,93.8,120090.0,112410.0,72720.0,92800.0,112260.0,130530.0,157120.0,Master's degree,None,False,True,False,False
+Parts Specialist,41-2022.00,92.8,7.2,256170.0,35220.0,20570.0,24840.0,31710.0,41980.0,56090.0,No formal educational credential,None,False,False,True,False
+Farm / Ranch Manager,11-9013.02,75.8,24.2,5060.0,80360.0,37530.0,53870.0,71160.0,99260.0,132760.0,High school diploma or equivalent,5 years or more,True,False,False,False
+Valet / Parking Lot Attendant,53-6021.00,86.8,13.1,147390.0,26450.0,18850.0,21620.0,25140.0,29900.0,36000.0,No formal educational credential,None,False,False,False,True
+Vocational Education Instructor,25-1194.00,6.7,93.3,112210.0,60420.0,32840.0,41970.0,54620.0,72460.0,99230.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Grinder / Sharpener,51-4033.00,96.0,3.9,76810.0,37860.0,25180.0,29360.0,36100.0,44810.0,53660.0,High school diploma or equivalent,None,False,False,True,False
+Compensation / Benefits Analyst,13-1141.00,45.6,54.5,89300.0,69840.0,40140.0,50000.0,64560.0,82920.0,105600.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Compliance Auditor,13-2011.02,19.7,80.10000000000002,1280700.0,79520.0,44480.0,55900.0,71550.0,94340.0,124450.0,Bachelor's degree,None,False,True,False,False
+Customer Experience Manager,43-1011.92,63.8,36.1,1487870.0,60130.0,34290.0,43360.0,56620.0,72480.0,91570.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Technical Writer,27-3042.00,22.5,77.4,50760.0,76860.0,44320.0,56570.0,72850.0,93590.0,117250.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Director of Quality Assurance,11-3051.01,54.89999999999999,45.2,185790.0,115110.0,65050.0,82400.0,105480.0,136880.0,176070.0,Bachelor's degree,5 years or more,True,False,False,False
+Staffing Manager,11-3121.92,40.8,59.2,154800.0,129570.0,68300.0,88150.0,116720.0,156560.0,205720.0,Bachelor's degree,5 years or more,True,False,False,False
+Head Cashier,41-2011.00,88.19999999999997,11.8,3596630.0,24370.0,18150.0,20320.0,23650.0,26550.0,31270.0,No formal educational credential,None,False,False,False,True
+Interpreter / Translator,27-3091.00,45.6,54.40000000000001,58870.0,57000.0,28170.0,37740.0,51830.0,71590.0,94370.0,Bachelor's degree,None,False,True,False,False
+Logistics Operations Supervisor,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Recruiting Assistant,13-1071.91,37.3,62.7,633040.0,67760.0,37180.0,47450.0,61920.0,81430.0,105930.0,Bachelor's degree,None,False,True,False,False
+Special Education Teacher,25-2059.00,14.7,85.4,35600.0,65350.0,34180.0,45730.0,61190.0,81510.0,100890.0,Bachelor's degree,None,False,True,False,False
+Vice President of Operations,11-1021.91,54.1,45.9,2400280.0,123030.0,45050.0,65660.0,100780.0,157430.0,,Bachelor's degree,5 years or more,True,False,False,False
+Academic / Guidance Counselor,21-1012.91,18.8,81.2,296460.0,61000.0,34380.0,44010.0,57040.0,74430.0,96090.0,Master's degree,None,False,True,False,False
+Advertising Sales Representative,41-3011.00,38.6,61.4,129740.0,64660.0,25390.0,35250.0,53310.0,79010.0,118300.0,High school diploma or equivalent,None,False,False,False,True
+Career Counselor,21-1012.92,18.8,81.2,296460.0,61000.0,34380.0,44010.0,57040.0,74430.0,96090.0,Master's degree,None,False,True,False,False
+Community Health Worker,21-1094.00,44.8,55.3,58950.0,44390.0,26660.0,32850.0,40360.0,52850.0,68350.0,High school diploma or equivalent,None,False,False,False,True
+Credit / Loan Counselor,13-2071.91,49.0,51.1,32110.0,50230.0,31670.0,37250.0,45950.0,58470.0,76740.0,Bachelor's degree,None,False,True,False,False
+Director of Training and Development,11-3131.00,36.2,63.8,38510.0,123470.0,64720.0,84720.0,113350.0,152340.0,196070.0,Bachelor's degree,5 years or more,True,False,False,False
+Editor,27-3041.00,16.4,83.5,95970.0,71910.0,32620.0,44190.0,61370.0,85730.0,122280.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Fitness / Wellness Manager,11-9039.02,18.0,82.0,44550.0,92150.0,46110.0,61280.0,85450.0,115990.0,146190.0,Bachelor's degree,Less than 5 years,False,True,False,False
+Legal Support Specialist,23-2099.00,59.3,40.8,45080.0,70840.0,32070.0,43950.0,58400.0,93050.0,134710.0,Associate's degree,None,False,False,True,False
+Marketing Automation Analyst,13-1161.91,19.6,80.4,678500.0,71570.0,34350.0,46800.0,63790.0,89580.0,122630.0,Bachelor's degree,None,False,True,False,False
+Occupational Therapy Assistant,31-2011.00,79.0,20.9,44990.0,61880.0,41730.0,52150.0,61510.0,73190.0,82210.0,Associate's degree,None,False,False,True,False
+Residential Community Manager,11-9141.91,57.7,42.2,220750.0,71720.0,31030.0,41630.0,58760.0,84430.0,129160.0,High school diploma or equivalent,Less than 5 years,False,False,True,False
+Sales Assistant,41-9099.91,53.0,47.0,118910.0,40620.0,21650.0,24740.0,31820.0,47530.0,69940.0,High school diploma or equivalent,None,False,False,False,True
+Sales Trainer,13-1151.00,44.1,55.9,312450.0,65640.0,32680.0,44680.0,61210.0,81290.0,104200.0,Bachelor's degree,Less than 5 years,False,True,False,False
