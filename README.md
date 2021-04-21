@@ -1,2 +1,2 @@
 # AnonCoUSA
-Helping Anon Co. expand with an inclusive workforce.
+Helping Anon Co. expand United States workforce with an inclusivity.
