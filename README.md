@@ -27,3 +27,6 @@ Helping Anon Co. expand United States workforce with a focus on inclusivity.
  - Seaborn - Used to help create original cluster plot.
  - Matplotlib - Used to plot clusters for first time.
  - scikit-learn - Used to import K Means, build machine learning pipeline, cluster data, and score clusters.
+
+## Approach:
+ - [`approach_assumptions_etc.docx`](approach_assumptions_etc.docx) - An explanation of my analysis, assumptions, modifications, and extensions.
