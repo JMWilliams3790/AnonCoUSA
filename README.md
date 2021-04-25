@@ -18,8 +18,12 @@ Helping Anon Co. expand United States workforce with a focus on inclusivity.
  - [`Cluster.html`](Images/Cluster.html) - HTML plot of cluster results from k means.
 
 [`Exploration-Analysis`](Exploration-Analysis) - This folder contains the jupyter notebook with the analysis.
- - [`AnonCoExplore.html`](Exloration-Analysis/AnonCoExplore.html) - Notebook containing the cleaning, analysis, and plotting of the data.
+ - [`AnonCoExplore.html`](Exloration-Analysis/AnonCoExplore.html) - Notebook containing the reading, cleaning, transforming, analyzing, and plotting of the data.
 
 
 ## Tools:
- - ###Pandas
+ - Pandas - Used to read CSV files as dataframes to easily manipulate and view data
+ - Plotly - Used to create interactive visualizations of the data.
+ - Seaborn - Used to help create original cluster plot.
+ - Matplotlib - Used to plot clusters for first time.
+ - scikit-learn - Used to import K Means, build machine learning pipeline, cluster data, and score clusters.
