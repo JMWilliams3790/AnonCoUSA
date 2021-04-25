@@ -1,5 +1,5 @@
 # AnonCoUSA
-Helping Anon Co. expand United States workforce with a focus on inclusivity.
+Helping Anon Co. expand United States workforce with a focus on inclusivity with data analysis and machine learning.
 
 ## Folders and files:
 
