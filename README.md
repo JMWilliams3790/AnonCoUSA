@@ -1,7 +1,7 @@
 # AnonCoUSA
 Helping Anon Co. expand United States workforce with a focus on inclusivity.
 
-## Folders:
+## Folders and files:
 
 [`data`](data) - This folder contains all of the CSV files that contain the data for the analysis.
 
@@ -19,3 +19,7 @@ Helping Anon Co. expand United States workforce with a focus on inclusivity.
 
 [`Exploration-Analysis`](Exploration-Analysis) - This folder contains the jupyter notebook with the analysis.
  - [`AnonCoExplore.html`](Exloration-Analysis/AnonCoExplore.html) - Notebook containing the cleaning, analysis, and plotting of the data.
+
+
+## Tools:
+ - ###Pandas
